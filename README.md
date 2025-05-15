@@ -1,8 +1,8 @@
-# Vision Transformers 🤖
-
-## 👀 Taller de Vision Transformers
+# Taller de Vision Transformers 🤖
 ## 💻 Facultad de Ingeniería (CIEP)
 ## 🏛️ Universidad Autónoma de San Luis Potosí (UASLP)
+
+
 
 ### 📚 Diapositivas de Transformers (Lucas Beyer, autor del ViT)
 >### 🔗 http://lucasb.eyer.be/transformer
@@ -10,7 +10,7 @@
 
 ---
 
-### 📚 Attention in Transformers: Concepts and Code in PyTorch (deeplearning.ai)
+### 🍿 Attention in Transformers: Concepts and Code in PyTorch (deeplearning.ai)
 >### 🔗 https://learn.deeplearning.ai/courses/attention-in-transformers-concepts-and-code-in-pytorch
 
 ---
@@ -22,3 +22,4 @@
 
 #### 📔 Google Colab: [https://colab.research.google.com](https://colab.research.google.com/drive/1sBlPiOHjvGERI6gtPGUe-z1BilWtcn6D?usp=sharing)
 
+---
