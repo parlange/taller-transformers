@@ -1,5 +1,5 @@
 # Taller: Vision Transformers 🤖
-## 💻 Facultad de Ingeniería (CIEP)
+## 💻 Facultad de Ingeniería (CIEP-FI)
 ## 🏛️ Universidad Autónoma de San Luis Potosí (UASLP)
 
 ### 📚 Diapositivas de Transformers (Lucas Beyer, autor del ViT)
