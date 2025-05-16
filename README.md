@@ -16,7 +16,7 @@
 ---
 
 ### 0️⃣ Clasificación de dígitos MNIST con Vision Transformer (ViT) 
->#### Fine-tuning: ImageNet with 21,000 clases (vit-base-patch16-224-in21k)
+>#### Fine-tuning: ImageNet con 21,000 clases (vit-base-patch16-224-in21k)
 >#### Downstream task: 10,000 imágenes de MNIST
 >#### Tutorial sobre visión computacional generado con la asistencia de ChatGPT 4o 🤖
 
