@@ -1,8 +1,6 @@
-# Taller de Vision Transformers 🤖
+# Taller: Vision Transformers 🤖
 ## 💻 Facultad de Ingeniería (CIEP)
 ## 🏛️ Universidad Autónoma de San Luis Potosí (UASLP)
-
-
 
 ### 📚 Diapositivas de Transformers (Lucas Beyer, autor del ViT)
 >### 🔗 http://lucasb.eyer.be/transformer
@@ -18,7 +16,7 @@
 ### 0️⃣ Clasificación de dígitos MNIST con Vision Transformer (ViT) 
 >#### Fine-tuning: ImageNet con 21,000 clases (vit-base-patch16-224-in21k)
 >#### Downstream task: 10,000 imágenes de MNIST
->#### Tutorial sobre visión computacional generado con la asistencia de ChatGPT 4o 🤖
+>#### Tutorial de ViT-MNIST generado con ChatGPT 4o 🤖
 
 #### 📔 Google Colab: [https://colab.research.google.com](https://colab.research.google.com/drive/1sBlPiOHjvGERI6gtPGUe-z1BilWtcn6D?usp=sharing)
 
